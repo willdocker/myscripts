@@ -1,0 +1,2 @@
+sudo service grafana-server status
+aws ec2 describe-instances --max-items 1 --region sa-east-1
